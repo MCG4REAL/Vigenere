@@ -1,0 +1,14 @@
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\bin\Debug\net6.0\VignereTest.exe
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\bin\Debug\net6.0\VignereTest.deps.json
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\bin\Debug\net6.0\VignereTest.runtimeconfig.json
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\bin\Debug\net6.0\VignereTest.dll
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\bin\Debug\net6.0\VignereTest.pdb
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\obj\Debug\net6.0\VignereTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\obj\Debug\net6.0\VignereTest.AssemblyInfoInputs.cache
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\obj\Debug\net6.0\VignereTest.AssemblyInfo.cs
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\obj\Debug\net6.0\VignereTest.csproj.CoreCompileInputs.cache
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\obj\Debug\net6.0\VignereTest.dll
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\obj\Debug\net6.0\refint\VignereTest.dll
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\obj\Debug\net6.0\VignereTest.pdb
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\obj\Debug\net6.0\VignereTest.genruntimeconfig.cache
+C:\Users\Mr_Co\source\repos\VignereTest\VignereTest\obj\Debug\net6.0\ref\VignereTest.dll
